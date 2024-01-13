@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.sm\:max-w-lg {
+    max-width: 52rem !important;
+}

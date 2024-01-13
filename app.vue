@@ -1,7 +1,5 @@
 <template>
-  <div>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <div class="h-screen bg-[#736F70] bg-[url('/fond_carbo_1300.png')]">
+    <NuxtPage />
   </div>
 </template>
